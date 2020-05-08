@@ -30,10 +30,11 @@ export const storeResult = ( res ) => {
             .then(response => {
                 const fetchedIngredient = [];
                 for (let key in response.data) {
-                    fetchedIngredient.push(key);
+                    fetchedIngredient.push(response.data[key]);
                 }
                 // 这样就能call site effec 了
                 console.log(fetchedIngredient[0]);
+                // dispatch(saveResult(fetchedIngredient[0]));
                 dispatch(saveResult(res));
             })
             .catch(err => {
