@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import * as actionCreators from '../../store/actions/index';
 
 import CounterControl from '../../components/CounterControl/CounterControl';
 import CounterOutput from '../../components/CounterOutput/CounterOutput';
-import * as actionTypes from '../../store/actions';
 
 
 
@@ -43,12 +43,18 @@ const mapStateToProps = state => {
 // 当在这个component里 onIncrementCounter被触发, name dispatch里对应方法也会触发.
 const mapDispatchToProps = dispatch => {
     return {
-        onIncrementCounter: () => dispatch({type: actionTypes.INCREMENT}),
-        onDecrementCounter: () => dispatch({type: actionTypes.DECREMENT}),
-        onAddCounter: () => dispatch({type: actionTypes.ADD, val: 10}),
-        onSubtractCounter: () => dispatch({type: actionTypes.SUBTRACT, val: 15}),
-        onStoreResult: (result) => dispatch({type: actionTypes.STORE_RESULT, result: result}),
-        onDeleteResult: (id) => dispatch({type: actionTypes.DELETE_RESULT, resultElId: id})
+        // onIncrementCounter: () => dispatch({type: actionTypes.INCREMENT}),
+        // onDecrementCounter: () => dispatch({type: actionTypes.DECREMENT}),
+        // onAddCounter: () => dispatch({type: actionTypes.ADD, val: 10}),
+        // onSubtractCounter: () => dispatch({type: actionTypes.SUBTRACT, val: 15}),
+        // onStoreResult: (result) => dispatch({type: actionTypes.STORE_RESULT, result: result}),
+        // onDeleteResult: (id) => dispatch({type: actionTypes.DELETE_RESULT, resultElId: id})
+        onIncrementCounter: () => dispatch(actionCreators.increment()),
+        onDecrementCounter: () => dispatch(actionCreators.decrement()),
+        onAddCounter: () => dispatch(actionCreators.add(10)),
+        onSubtractCounter: () => dispatch(actionCreators.subtract(15)),
+        onStoreResult: (result) => dispatch(actionCreators.storeResult(result)),
+        onDeleteResult: (id) => dispatch(actionCreators.deleteResult(id))
     };
 };
 
