@@ -35,8 +35,10 @@ class App extends Component {
         <Transition
           in={this.state.showBlock}
           timeout={1000}
+          // 用来控制这个element是不是存在在dom里
           mountOnEnter
           unmountOnExit
+
           onEnter={() => console.log('onEnter')}
           onEntering={() => console.log('onEntering')}
           onEntered={() => console.log('onEntered')}
