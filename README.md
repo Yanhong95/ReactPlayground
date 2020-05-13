@@ -31,15 +31,15 @@ Learn and practice React by creating some interesting programs
 
 8. [burger-builder-testing](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-testing)
 
-   Test local functions of react component through Jest and Enzyme
+    Test local functions of react component through Jest and Enzyme
 
 9. [lists-conditionals-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/lists-conditionals-assignment)
 
-   Assignment of practice basic React syntax session ( handle lists ).
+    Assignment of practice basic React syntax session ( handle lists ).
 
 10. [nextjs-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
 
-   A glimpse of NEXT.js, which has page-based routing system and pre-rendering on the server site.
+    A glimpse of NEXT.js, which has page-based routing system and pre-rendering on the server site.
 
 11. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
 
