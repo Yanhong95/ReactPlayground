@@ -39,7 +39,7 @@ Learn and practice React by creating some interesting programs
 
 10. [nextjs](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
 
-   A glimpse of NEXT.js, which has an intuitive page-based routing system and pre-rendering on the server site.
+   A glimpse of NEXT.js, which has page-based routing system and pre-rendering on the server site.
 
 11. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
 
