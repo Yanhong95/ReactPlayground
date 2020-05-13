@@ -39,7 +39,8 @@ Learn and practice React by creating some interesting programs
 
 10. [nextjs](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
 
-   A glimpse of NEXT.js, which has an intuitive page-based routing system and pre-rendering, both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basis.
+   A glimpse of NEXT.js, which has an intuitive page-based routing system and pre-rendering, 
+   both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basis.
 
 11. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
 
