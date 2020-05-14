@@ -17,58 +17,62 @@ Learn and practice React by creating some interesting programs
 
    Completed basic function of burger-builder project. Such as add ingredients, Calculate the price, checkout, etc.
 
-5. [burger-builder-redux](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux)
+5. [burger-builder-convert-to-hooks](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-convert-to-hooks)
+
+   Replace all class base components to functional components by using React hooks.
+
+6. [burger-builder-redux](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux)
 
    Centralize state management through redux.
 
-6. [burger-builder-redux-saga](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-saga)
+7. [burger-builder-redux-saga](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-saga)
 
    Fetching and storing data from the server by using asynchronous methods ( react-saga ) in redux.
 
-7. [burger-builder-redux-thunk](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-thunk)
+8. [burger-builder-redux-thunk](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-thunk)
 
    Fetching and storing data from the server by using asynchronous methods ( react-chunk ) in redux.
 
-8. [burger-builder-testing](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-testing)
+9. [burger-builder-testing](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-testing)
 
     Test local functions of react component through Jest and Enzyme
 
-9. [lists-conditionals-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/lists-conditionals-assignment)
+10. [lists-conditionals-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/lists-conditionals-assignment)
 
     Assignment of practice basic React syntax session ( handle lists ).
 
-10. [nextjs-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
+11. [nextjs-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
 
     A glimpse of NEXT.js, which has page-based routing system and pre-rendering on the server site.
 
-11. [react-hook](https://github.com/Yanhong95/ReactPlayground/tree/master/react-hook)
+12. [react-hook](https://github.com/Yanhong95/ReactPlayground/tree/master/react-hook)
 
     React hook demo, useState, useEffect, useRef, useCallback, useMemo, useContext and custom hook.
 
-12. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
+13. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
 
     Lifecycle demo.
 
-13. [react-routing](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing)
+14. [react-routing](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing)
 
     Routing demo.
 
-14. [react-routing-LazyLoading](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing-LazyLoading)
+15. [react-routing-LazyLoading](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing-LazyLoading)
 
     LazyLoading demo.
 
-15. [redux-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-assignment)
+16. [redux-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-assignment)
 
     Assignment of practice redux.
 
-16. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
+17. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
 
     redux demo.
 
-17. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
+18. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
 
     Assignment of practice React routing.
 
-18. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
+19. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
 
     Webpack project configuration
