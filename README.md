@@ -19,7 +19,7 @@ Learn and practice React by creating some interesting programs
 
 5. [burger-builder-convert-to-hooks](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-convert-to-hooks)
 
-   Replace all class base components to functional components by using React hooks.
+   Converted burger project to use functional components and React hooks only,
 
 6. [burger-builder-redux](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux)
 
