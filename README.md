@@ -67,12 +67,16 @@ Learn and practice React by creating some interesting programs
 
 17. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
 
-    redux demo.
+    Redux demo.
 
-18. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
+18. [replacing-redux-with-react-hooks](https://github.com/Yanhong95/ReactPlayground/tree/master/replacing-redux-with-react-hooks)
+
+    Demo to show how to replacing redux with react hooks.
+
+19. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
 
     Assignment of practice React routing.
 
-19. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
+20. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
 
     Webpack project configuration
