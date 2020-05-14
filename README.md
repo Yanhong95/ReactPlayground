@@ -41,30 +41,34 @@ Learn and practice React by creating some interesting programs
 
     A glimpse of NEXT.js, which has page-based routing system and pre-rendering on the server site.
 
-11. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
+11. [react-hook](https://github.com/Yanhong95/ReactPlayground/tree/master/react-hook)
+
+    React hook demo, useState, useEffect, useRef, useCallback, useMemo, useContext and custom hook.
+
+12. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
 
     Lifecycle demo.
 
-12. [react-routing](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing)
+13. [react-routing](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing)
 
     Routing demo.
 
-13. [react-routing-LazyLoading](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing-LazyLoading)
+14. [react-routing-LazyLoading](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing-LazyLoading)
 
     LazyLoading demo.
 
-14. [redux-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-assignment)
+15. [redux-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-assignment)
 
     Assignment of practice redux.
 
-15. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
+16. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
 
     redux demo.
 
-16. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
+17. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
 
     Assignment of practice React routing.
 
-17. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
+18. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
 
     Webpack project configuration
