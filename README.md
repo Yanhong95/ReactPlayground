@@ -19,64 +19,68 @@ Learn and practice React by creating some interesting programs
 
 5. [burger-builder-convert-to-hooks](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-convert-to-hooks)
 
-   Converted burger project to use functional components and React hooks only,
+   Converted burger project to use functional components and React hooks only (single type state)
 
-6. [burger-builder-redux](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux)
+6. [burger-builder-convert-to-hooks-multiple-slices]()
+
+   Converted burger project to use functional components and React hooks only (multiple type state)
+
+7. [burger-builder-redux](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux)
 
    Centralize state management through redux.
 
-7. [burger-builder-redux-saga](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-saga)
+8. [burger-builder-redux-saga](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-saga)
 
    Fetching and storing data from the server by using asynchronous methods ( react-saga ) in redux.
 
-8. [burger-builder-redux-thunk](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-thunk)
+9. [burger-builder-redux-thunk](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-redux-thunk)
 
    Fetching and storing data from the server by using asynchronous methods ( react-chunk ) in redux.
 
-9. [burger-builder-testing](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-testing)
+10. [burger-builder-testing](https://github.com/Yanhong95/ReactPlayground/tree/master/burger-builder-testing)
 
     Test local functions of react component through Jest and Enzyme
 
-10. [lists-conditionals-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/lists-conditionals-assignment)
+11. [lists-conditionals-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/lists-conditionals-assignment)
 
     Assignment of practice basic React syntax session ( handle lists ).
 
-11. [nextjs-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
+12. [nextjs-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/nextjs)
 
     A glimpse of NEXT.js, which has page-based routing system and pre-rendering on the server site.
 
-12. [react-hook](https://github.com/Yanhong95/ReactPlayground/tree/master/react-hook)
+13. [react-hook](https://github.com/Yanhong95/ReactPlayground/tree/master/react-hook)
 
     React hook demo, useState, useEffect, useRef, useCallback, useMemo, useContext and custom hook.
 
-13. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
+14. [react-lifecycle](https://github.com/Yanhong95/ReactPlayground/tree/master/my-lifecycle)
 
     Lifecycle demo.
 
-14. [react-routing](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing)
+15. [react-routing](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing)
 
     Routing demo.
 
-15. [react-routing-LazyLoading](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing-LazyLoading)
+16. [react-routing-LazyLoading](https://github.com/Yanhong95/ReactPlayground/tree/master/react-routing-LazyLoading)
 
     LazyLoading demo.
 
-16. [redux-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-assignment)
+17. [redux-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-assignment)
 
     Assignment of practice redux.
 
-17. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
+18. [redux-practice](https://github.com/Yanhong95/ReactPlayground/tree/master/redux-practice)
 
     Redux demo.
 
-18. [replacing-redux-with-react-hooks](https://github.com/Yanhong95/ReactPlayground/tree/master/replacing-redux-with-react-hooks)
+19. [replacing-redux-with-react-hooks](https://github.com/Yanhong95/ReactPlayground/tree/master/replacing-redux-with-react-hooks)
 
     Demo to show how to replacing redux with react hooks.
 
-19. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
+20. [routing-assignment](https://github.com/Yanhong95/ReactPlayground/tree/master/routing-assignment)
 
     Assignment of practice React routing.
 
-20. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
+21. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
 
     Webpack project configuration
