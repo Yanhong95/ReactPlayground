@@ -83,4 +83,4 @@ Learn and practice React by creating some interesting programs
 
 21. [webpack-workflow](https://github.com/Yanhong95/ReactPlayground/tree/master/webpack-workflow)
 
-    Webpack project configuration
+    Webpack project configuration.
